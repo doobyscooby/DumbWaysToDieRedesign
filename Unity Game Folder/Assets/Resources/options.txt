@@ -1,0 +1,1 @@
+masterVolume=10,musicVolume=-34,vfxVolume=-7,sensitivity=3,loadTutorial=False,quality=2,displayMode=1,lastLevel=1

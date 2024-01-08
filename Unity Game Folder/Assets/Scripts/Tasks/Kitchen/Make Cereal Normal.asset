@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271019d538df13a4ebe866d9961ae9c4, type: 3}
+  m_Name: Make Cereal Normal
+  m_EditorClassIdentifier: 
+  taskName: Make Cereal
+  taskDescription: Player must make Cereal
+  baseTaskComplete: 0
+  taskComplete: 1
+  associatedTrap: {fileID: 2457188356826294842, guid: fe8d8ae10a4616445b36d9e212910957, type: 3}
+  spawn: 0
+  nameOfPosition: Make Toast Position
+  isDependent: 0
+  steps: 3
+  stepsComplete: 3

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271019d538df13a4ebe866d9961ae9c4, type: 3}
+  m_Name: Get Clothes
+  m_EditorClassIdentifier: 
+  taskName: Get Clothes
+  taskDescription: Player must pick up all clothes
+  baseTaskComplete: 0
+  taskComplete: 0
+  associatedTrap: {fileID: 4764194953081592252, guid: 7d87cce59124dcb4f9d73d71737b2c34, type: 3}
+  spawn: 0
+  nameOfPosition: Clothes
+  isDependent: 0
+  steps: 4
+  stepsComplete: 0

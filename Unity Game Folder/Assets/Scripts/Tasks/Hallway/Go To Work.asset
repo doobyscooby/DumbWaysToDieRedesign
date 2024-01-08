@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271019d538df13a4ebe866d9961ae9c4, type: 3}
+  m_Name: Go To Work
+  m_EditorClassIdentifier: 
+  taskName: Go To Work
+  taskDescription: Player must go to work.
+  baseTaskComplete: 0
+  taskComplete: 0
+  associatedTrap: {fileID: 5870352574850984446, guid: 0dd2f9e2ae5852744ac5ead8457b201a, type: 3}
+  spawn: 0
+  nameOfPosition: Work Door Position
+  isDependent: 1
+  steps: 1
+  stepsComplete: 0

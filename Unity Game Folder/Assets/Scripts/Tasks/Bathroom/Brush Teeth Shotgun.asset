@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271019d538df13a4ebe866d9961ae9c4, type: 3}
+  m_Name: Brush Teeth Shotgun
+  m_EditorClassIdentifier: 
+  taskName: Brush Teeth
+  taskDescription: Player must brush their teeth
+  baseTaskComplete: 0
+  taskComplete: 0
+  associatedTrap: {fileID: 5374096388733947271, guid: f01e26f196b7d564dabc21a8411270ba, type: 3}
+  spawn: 0
+  nameOfPosition: Cabinet Position
+  isDependent: 0
+  steps: 1
+  stepsComplete: 0
